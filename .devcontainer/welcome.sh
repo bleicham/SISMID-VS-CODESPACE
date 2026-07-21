@@ -8,8 +8,9 @@ cat <<'EOF'
    R + tidyverse, mgcv, forecast/fable, scoringutils, hubverse
    Quarto, RStudio Server (port 8787)
 
- ONE step left - sign in to your AI:
-   Open a file, click the Claude icon (top-right or sidebar),
-   then Sign in. Use your Claude Pro/Max account.
+ Pick ONE AI assistant and sign in (icons in the sidebar):
+   Claude Code    -> Claude Pro/Max account (or ANTHROPIC_API_KEY)
+   GitHub Copilot -> your GitHub account (Copilot access needed)
+   OpenAI Codex   -> ChatGPT account (or OPENAI_API_KEY)
 ------------------------------------------------------------
 EOF
