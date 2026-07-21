@@ -12,8 +12,11 @@
         "reditorsupport.r",
         "rdebugger.r-debugger",
         "quarto.quarto",
+        "mechatroner.rainbow-csv",
         "anthropic.claude-code",
-        "mechatroner.rainbow-csv"
+        "github.copilot",
+        "github.copilot-chat",
+        "openai.chatgpt"
       ],
       "settings": {
         "r.rterm.linux": "/usr/local/bin/radian",
