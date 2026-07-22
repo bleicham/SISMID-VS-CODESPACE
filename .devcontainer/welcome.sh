@@ -2,7 +2,7 @@
 cat <<'EOF'
 
 ------------------------------------------------------------
- SISMID 2026 - Human-AI Teaming for ID Modeling
+ SISMID 2026 - Course Coding Environment
 ------------------------------------------------------------
  Everything for the modeling work is installed:
    R + tidyverse, mgcv, forecast/fable, scoringutils, hubverse
