@@ -1,5 +1,5 @@
 {
-  "name": "SISMID 2026 - Human-AI Teaming for ID Modeling",
+  "name": "SISMID 2026 - Course Coding Environment",
   "build": { "dockerfile": "Dockerfile", "context": ".." },
   "features": {
     "ghcr.io/devcontainers/features/node:1": {},
